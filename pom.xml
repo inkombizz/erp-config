@@ -144,7 +144,6 @@
     </repositories>
 
     <build>
-        <finalName>agn-config</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
