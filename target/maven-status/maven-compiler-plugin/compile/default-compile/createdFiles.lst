@@ -9,7 +9,6 @@ com/inkombizz/security/AppRequestFilter.class
 com/inkombizz/utils/JasperReportService$1.class
 com/inkombizz/conf/ResponsBody.class
 com/inkombizz/utils/RestUtil.class
-.netbeans_automatic_build
 com/inkombizz/dao/InventoryInOutDao.class
 com/inkombizz/utils/IOExcel$1.class
 com/inkombizz/security/WebSecurityConfig.class
